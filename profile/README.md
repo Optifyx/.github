@@ -1,6 +1,4 @@
-# Optifyx
-
----
+# [Optifyx](https://optifyx.theushen.me/status)
 
 This project was created for **Neighborhood SF**.
 
